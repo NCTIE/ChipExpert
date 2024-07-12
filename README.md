@@ -7,7 +7,11 @@ ChipExpert is the first open-source, instructional LLM dedicated to the Integra
 - The first Large Language Model (LLM) in the IC design field. 
 - A professional corpus covering ten specialized areas of IC design. 
 - Achieves superior performance in both foundational and cutting-edge knowledge compared to general LLMs. 
-- You can directly experience the capabilities and performance of ChipExpert by accessing [the provided link](http://27.18.114.16:23023). 
+- You can directly experience the capabilities and performance of ChipExpert by accessing [the provided link](http://27.18.114.16:23023).
+
+<div align="center">
+  <img src="images/demo-new.jpg" alt="" width="150" height="150">
+</div>
 
 ## Model Description
 <!-- Provide a longer summary of what this model is. -->
