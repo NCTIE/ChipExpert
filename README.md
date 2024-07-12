@@ -1,4 +1,3 @@
-<h1 align="center"><b>ChipExpert-8B-Instruct</b></h1>
 <h2 align="center"><b>The First Open-Source Integrated-Circuit-Design-Specific Large Language Model．</b></h2>
 
 ## Introduction:
