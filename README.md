@@ -1,4 +1,4 @@
-<h2 align="center"><b>ChipExpert: The First Open-Source Integrated-Circuit-Design-Specific Large Language Model</b></h2>
+<h2 align="left"><b>ChipExpert: The First Open-Source Integrated-Circuit-Design-Specific Large Language Model</b></h2>
 
 ## Introduction:
 ChipExpert is the first open-source, instructional LLM dedicated to the Integrated-Circuit-Design industry, covering knowledge across multiple sub-domains, including analog circuits, digital circuits, radio frequency (RF), semiconductor devices, electronic design automation (EDA), system-on-chip (SoC), computing-in-memory, and more. This model aims to provide teaching assistant services for students in the field of IC to learn fundamental knowledge, engineers to inquire about technical details, and researchers to investigate cutting-edge papers and research topics. The ultimate goal of this model is to help the integrated circuit industry reduce the learning barrier and lower the training costs.
