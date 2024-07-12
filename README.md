@@ -10,7 +10,7 @@ ChipExpert is the first open-source, instructional LLM dedicated to the Integra
 - You can directly experience the capabilities and performance of ChipExpert by accessing [the provided link](http://27.18.114.16:23023).
 
 <div align="center">
-  <img src="images/demo-new.jpg" alt="" width="600" height="900">
+  <img src="images/demo-2.jpg" alt="" width="600" height="900">
 </div>
 
 ## Model Description
