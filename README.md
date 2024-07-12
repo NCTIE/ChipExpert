@@ -26,8 +26,5 @@ ChipExpert is the first open-source, instructional LLM dedicated to the Integra
 <!-- This section addresses misuse, malicious use, and uses that the model will not work well for. -->
 This is the first version of ChipExpert, more capable versions with enhanced abilities will be released soon.
 
-## Model Card Contact
-
-- Chao Zhang: zc13815813901@gmail.com
-- Wensuo Wang: 1136823452@qq.com
-- Frenkie: zhaoyangzh@seu.edu.cn
+## Contact
+chipexpert@nctieda.com
