@@ -15,8 +15,15 @@ ChipExpert is the first open-source, instructional LLM dedicated to the Integra
 
 ## Contributions
 This project is the result of a collaborative effort：
-- Southeast University: Ning Xu, Zhaoyang Zhang, Lei Qi, Zihao Ren, Huaiyuan Zhang, Yanqi Zhang, Zhichao Liu, Qingwen Wei, Shiyang Wu, Lanlan Yang, Xin Geng, Jun Yang
-- National Center of Technology lnnovation for EDA: Jun Yang, Wensuo Wang, Chao Zhang
+<p align="center">
+Ning Xu<sup>1,2</sup> &nbsp;&nbsp; Zhaoyang Zhang<sup>1,2</sup> &nbsp;&nbsp; Lei Qi<sup>1,2</sup> &nbsp;&nbsp; Wensuo Wang<sup>1</sup> &nbsp;&nbsp; Chao Zhang<sup>1</sup> &nbsp;&nbsp; Zihao Ren<sup>2</sup> <br>
+Huaiyuan Zhang<sup>2</sup> &nbsp;&nbsp; Xin Cheng<sup>2</sup> &nbsp;&nbsp; Yanqi Zhang<sup>2</sup> &nbsp;&nbsp; Zhichao Liu<sup>2</sup> &nbsp;&nbsp; Qingwen Wei<sup>2</sup> &nbsp;&nbsp; Shiyang Wu<sup>2</sup> <br>
+Lanlan Yang<sup>2</sup> &nbsp;&nbsp; Xin Geng<sup>2</sup> &nbsp;&nbsp; Jun Yang<sup>1,2</sup> 
+</p>
+<p align="center">
+<sup>1</sup>National Center of Technology Innovation for EDA, Nanjing, China <br>
+<sup>2</sup>Southeast University, Nanjing, China
+</p>
 
 ## Model Description
 <!-- Provide a longer summary of what this model is. -->
