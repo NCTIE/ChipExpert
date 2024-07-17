@@ -24,7 +24,7 @@ This project is the result of a collaborative effort：
 - Developed by: NCTIEDA (National Center of Technology Innovation for EDA) and Southeast University
 <div align="center">
   <img src="images/logo.png" alt="" width="148" height="148">
-  <img src="images/university-logo.png" alt="" width="135" height="135">
+  <img src="images/university-logo.png" alt="" width="130" height="130">
 </div>
 
 - Model type: Instruction Model
