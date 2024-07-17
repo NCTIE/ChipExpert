@@ -18,16 +18,13 @@ This project is the result of a collaborative effort：
 - Southeast University: Ning Xu, Zhaoyang Zhang, Lei Qi, Zihao Ren, Huaiyuan Zhang, Xin Cheng, Yanqi Zhang, Zhichao Liu, Qingwen Wei, Shiyang Wu, Lanlan Yang, Xin Geng, Jun Yang
 - National Center of Technology lnnovation for EDA: Wensuo Wang, Chao Zhang
 
-## Getting Started
-To get started with SemiKong, please refer to the [HuggingFace](https://huggingface.co/China-NCTIEDA).
-
 ## Model Description
 <!-- Provide a longer summary of what this model is. -->
 
 - Developed by: NCTIEDA (National Center of Technology Innovation for EDA) and Southeast University
 <div align="center">
-  <img src="images/logo.png" alt="" width="150" height="150" style="margin-right: 100px;">
-  <img src="images/university-logo.png" alt="" width="130" height="130">
+  <img src="images/logo.png" alt="" width="110" height="110">
+  <img src="images/university-logo.png" alt="" width="90" height="90">
 </div>
 
 - Model type: Instruction Model
