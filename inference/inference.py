@@ -14,9 +14,6 @@ dialog_template = "### Instruction:\n{instruction}\n\n### Response:"
 
 template = system_template + dialog_template
 
-
-
-
 # 创建请求头
 headers = {
     "Accept": "application/json",
