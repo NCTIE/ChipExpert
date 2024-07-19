@@ -39,6 +39,9 @@ Lanlan Yang<sup>2</sup> &nbsp;&nbsp; Xin Geng<sup>2</sup> &nbsp;&nbsp; Jun Yang<
 - License: [Apache License 2.0](LICENSE)
 - Finetuned from model: Llama 3
 
+## Getting Started
+To get started with CHIPEXPERT, please refer to the [inference guide](inference/Inference.md).
+
 ## Citation
 If you use ChipExpert in your research or development work, please cite our paper:
 ```bibtex
