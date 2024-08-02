@@ -56,5 +56,7 @@ If you use ChipExpert in your research or development work, please cite our pape
 }
 ```
 
+<iframe src="https://docs.google.com/viewer?url=https://github.com/NCTIE/ChipExpert/raw/main/ELCVIA_Template.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+
 ## Contact
 Please contact the ChipExpert team at chipexpert@nctieda.com
