@@ -52,8 +52,7 @@ If you use ChipExpert in your research or development work, please cite our pape
   title={ChipExpert: The First Open-Source Integrated-Circuit-Design-Specific Large Language Model},
   author={Ning Xu, ZhaoyangZhang et al.},
   journal={arXiv preprint arXiv:2024.xxxxx},
-  year={2024},
-  howpublished={\url{https://github.com/NCTIE/ChipExpert}}
+  year={2024}
 }
 ```
 [ChipExpert: The First Open-Source Integrated-Circuit-Design-Specific Large Language Model](https://docs.google.com/viewer?url=https://github.com/NCTIE/ChipExpert/raw/main/ELCVIA_Template.pdf)
