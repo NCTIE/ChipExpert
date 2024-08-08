@@ -51,7 +51,7 @@ If you use ChipExpert in your research or development work, please cite our pape
 @article{chipexpert2024,
   title={ChipExpert: The First Open-Source Integrated-Circuit-Design-Specific Large Language Model},
   author={Ning Xu, ZhaoyangZhang et al.},
-  journal={arXiv preprint arXiv:2024.xxxxx},
+  journal={arXiv preprint arXiv:2408.00804v1},
   year={2024}
 }
 ```
