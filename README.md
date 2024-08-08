@@ -47,9 +47,9 @@ To get started with ChipExpert, please refer to the [inference guide](inference/
 
 ## LICENSE
 
-This project can only be used for research purposes, and the project developer shall not bear any harm or loss caused by the use of this project (including but not limited to data, models, codes, etc.). Please refer to the [disclaimer](DISCLAIMER)disclaimer for details.
+This project can only be used for research purposes, and the project developer shall not bear any harm or loss caused by the use of this project (including but not limited to data, models, codes, etc.). Please refer to the [disclaimer](DISCLAIMER) for details.
 
-The license agreement for the project code is [The Apache License 2.0](LICENSE), the code is free for commercial use, and the model weights and data can only be used for research purposes. Please attach ChipExpert's link and license agreement in the product description.
+The license agreement for the project code is [Apache License 2.0](LICENSE), the code is free for commercial use, and the model weights and data can only be used for research purposes. Please attach ChipExpert's link and license agreement in the product description.
 
 ## Citation
 If you use ChipExpert in your research or development work, please cite our paper:
